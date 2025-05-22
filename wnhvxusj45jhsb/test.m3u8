@@ -8,10 +8,9 @@
 #KODIPROP:inputstream.adaptive.license_key={"8e3977c581333101a527776030e5d379"}:f726e9c49a640e932ec6a92685153772"}
 https://live-d-02-rogers-uw-prd.akamaized.net/out/v1/r-prd/ch-01-prd-r-v2/dash-ch-01-prd-r-hd/index.mpd
 
-#EXTINF:-1 group-title="",MeTV
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"575b2ef9eb8f8882334e8a432825852d"}:74ada093f2298d434bc9eb86545378f9"}
-https://dfwlive-v1-c1p6-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(METV-2304.dfw.720)/07.m3u8
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/vy9kl11700902598.png", MeTv
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"U4beqhnTBHdBIWN4ZFnk1A","kid":"Qw2edhFFRjOzLDb3pf7E8Q"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+https://linear.stvacdn.spectrum.com/LIVE/1157/dash/cenc/WNYTDT2_12741/manifest.mpd
