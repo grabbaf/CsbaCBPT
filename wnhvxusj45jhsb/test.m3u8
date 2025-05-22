@@ -1,0 +1,17 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="",SportsNet East
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"8e3977c581333101a527776030e5d379"}:f726e9c49a640e932ec6a92685153772"}
+https://live-d-02-rogers-uw-prd.akamaized.net/out/v1/r-prd/ch-01-prd-r-v2/dash-ch-01-prd-r-hd/index.mpd
+
+#EXTINF:-1 group-title="",MeTV
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"575b2ef9eb8f8882334e8a432825852d"}:74ada093f2298d434bc9eb86545378f9"}
+https://dfwlive-v1-c1p6-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(METV-2304.dfw.720)/07.m3u8
