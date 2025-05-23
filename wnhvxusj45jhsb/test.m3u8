@@ -84,6 +84,6 @@ https://live-cito.9c9media.ca/5d56690552e77e26848799912ac055919f78d5e71725017868
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"ab3698f738c4b90c11de7239cb5ed7c1:885df0ea68814a11a3dd7718725f4075"}
+#KODIPROP:inputstream.adaptive.license_key={"885df0ea68814a11a3dd7718725f4075:ab3698f738c4b90c11de7239cb5ed7c1"}
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36"
 https://live-cito.9c9media.ca/aea92941a144d29228a31fb9f767e5985796dc041725015927969/f/tsn2/manifest.mpd
