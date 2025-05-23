@@ -70,10 +70,9 @@ https://a79aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/ghf7
 #KODIPROP:inputstream.adaptive.license_key={"6f0aeae5779f1dcaef23f0bfbc828220:7bcef3cf93de00e3daeb190d15b1ec05"}
 https://a196aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/o7aqpbb6vv/out/v1/f8f6ef738ef24c4f8176d561ffb8a157/cenc.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="",Cartoon Network De
-#KODIPROP:inputstream.adaptive.stream_headers=Referer="socks5://14a4f1d2d0dae:f9b0b2a25b@185.234.219.243:12324,socks5://14a4f1d2d0dae:f9b0b2a25b@185.234.219.31:12324,socks5://14a4f1d2d0dae:f9b0b2a25b@185.234.219.160:12324,socks5://14a4f1d2d0dae:f9b0b2a25b@108.165.200.36:12324,socks5://14a4f1d2d0dae:f9b0b2a25b@193.242.117.108:12324"
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-logo="" group-title="",Cartoonito
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={000b14f995ec1157157bea16eb1f88f8:f9fb09c1b6dd020025c647ff539ef203}
-https://linear212-de-dash1-prd-ak.cdn12.skycdp.com/343432/index_stereo.mpd
+#KODIPROP:inputstream.adaptive.license_key={"000bba42397c4a02870d71e9d84fc086:1a595d1bc0ac7a667976afc5d56a6dbe"}
+https://cors-proxy.cooks.fyi/https://linear212-de-dash1-prd-ak.cdn12.skycdp.com/31145/index_stereo.mpd
