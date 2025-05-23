@@ -95,4 +95,4 @@ https://live-cito.9c9media.ca/aea92941a144d29228a31fb9f767e5985796dc041725015927
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"8589bd4b349e4f468fe4700683497153:d5f4c066af0dd31a42dfcd0666602998"}
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36"
-https://p-dynaman.movetv.com/manifest/159/widevine/master.m3u8?account_status=
+https://cors-proxy.cooks.fyi/https://p-dynaman.movetv.com/manifest/159/widevine/master.m3u8?account_status=
