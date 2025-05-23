@@ -73,14 +73,16 @@ https://a196aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/o7a
 #EXTINF:-1 tvg-logo="" group-title="",AMC HD
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"16fb5a8c4f25e1caa8ba1acbad8cd765:a8e92474308b4c756ae73b16e15599c7"}
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36"
 https://dfwlive-v1-c1p2-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(AMCHD-4730.dfw.1080)/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="",CBS NEW YORK
+#EXTINF:-1 tvg-logo="" group-title="",CBS LOS ANGELES 31
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=""
-https://06culive04.akamaized.net/CBS_NEW_YORK/index.mpd
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"
+https://06culive04.akamaized.net/CBS_LOS_ANGELES_31/index.mpd
