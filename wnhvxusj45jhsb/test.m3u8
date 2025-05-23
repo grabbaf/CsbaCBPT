@@ -71,7 +71,7 @@ https://a79aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/ghf7
 https://a196aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/o7aqpbb6vv/out/v1/f8f6ef738ef24c4f8176d561ffb8a157/cenc.mpd
 
 #EXTINF:-1 tvg-logo="" group-title="",Cartoon Network De
-#KODIPROP:inputstream.adaptive.stream_headers=Referer={"socks5://14a4f1d2d0dae:f9b0b2a25b@185.234.219.243:12324"}
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="socks5://14a4f1d2d0dae:f9b0b2a25b@185.234.219.243:12324,socks5://14a4f1d2d0dae:f9b0b2a25b@185.234.219.31:12324,socks5://14a4f1d2d0dae:f9b0b2a25b@185.234.219.160:12324,socks5://14a4f1d2d0dae:f9b0b2a25b@108.165.200.36:12324,socks5://14a4f1d2d0dae:f9b0b2a25b@193.242.117.108:12324"
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
