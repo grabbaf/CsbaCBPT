@@ -70,19 +70,20 @@ https://a79aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/ghf7
 #KODIPROP:inputstream.adaptive.license_key={"6f0aeae5779f1dcaef23f0bfbc828220:7bcef3cf93de00e3daeb190d15b1ec05"}
 https://a196aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/o7aqpbb6vv/out/v1/f8f6ef738ef24c4f8176d561ffb8a157/cenc.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="",AMC HD
+#EXTINF:-1 tvg-logo="" group-title="",lulli
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"16fb5a8c4f25e1caa8ba1acbad8cd765:a8e92474308b4c756ae73b16e15599c7"}
+#KODIPROP:inputstream.adaptive.license_key={"ccabe322277b55e887fda2cf158b5f9:ccabe322277b55e887fda2cf158b5f98"}
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36"
-https://dfwlive-v1-c1p2-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(AMCHD-4730.dfw.1080)/index.m3u8
+https://live1i.nscreen.iptv.bell.ca/ott/W-HD/ottv1/lulli.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="",CBS LOS ANGELES 31
+#EXTINF:-1 tvg-logo="" group-title="",TSN1
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=""
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"
-https://06culive04.akamaized.net/CBS_LOS_ANGELES_31/index.mpd
+#KODIPROP:inputstream.adaptive.license_key={"8df41512092240d38550e83dc05e157e:f29f106ec9f58b41c7c8391b64f3bb25"}
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36"
+https://live-cito.9c9media.ca/f2ca3f90e91525b7d72012084085c9e35ac9faa51724957469496/f/tsn1/manifest.mpd
