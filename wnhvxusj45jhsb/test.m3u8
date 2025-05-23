@@ -70,3 +70,10 @@ https://a79aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/ghf7
 #KODIPROP:inputstream.adaptive.license_key={"6f0aeae5779f1dcaef23f0bfbc828220:7bcef3cf93de00e3daeb190d15b1ec05"}
 https://a196aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/o7aqpbb6vv/out/v1/f8f6ef738ef24c4f8176d561ffb8a157/cenc.mpd
 
+#EXTINF:-1 tvg-logo="" group-title="",FOX TV
+#KODIPROP:inputstream.adaptive.stream_headers=Referer={"http://DhQFDpYL:VYDTqMBw@166.1.253.102:62992"}
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+https://gcdn-p15.teleuptv.net/bcf5-77de6725452e/tracks-v4a1/rewind-14400.m3u8
