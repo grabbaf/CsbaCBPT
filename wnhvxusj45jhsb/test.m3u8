@@ -70,9 +70,9 @@ https://a79aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/ghf7
 #KODIPROP:inputstream.adaptive.license_key={"6f0aeae5779f1dcaef23f0bfbc828220:7bcef3cf93de00e3daeb190d15b1ec05"}
 https://a196aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/o7aqpbb6vv/out/v1/f8f6ef738ef24c4f8176d561ffb8a157/cenc.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="",Cartoonito
+#EXTINF:-1 tvg-logo="" group-title="",CBS NEW YORK
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"000bba42397c4a02870d71e9d84fc086:1a595d1bc0ac7a667976afc5d56a6dbe"}
-https://cors-proxy.cooks.fyi/https://linear212-de-dash1-prd-ak.cdn12.skycdp.com/31145/index_stereo.mpd
+#KODIPROP:inputstream.adaptive.license_key=""
+https://06culive04.akamaized.net/CBS_NEW_YORK/index.mpd
