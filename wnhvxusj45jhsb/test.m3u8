@@ -79,11 +79,11 @@ https://a196aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/o7a
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36"
 https://live1i.nscreen.iptv.bell.ca/ott/W-HD/ottv1/lulli.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="",TSN1
+#EXTINF:-1 tvg-logo="" group-title="",TSN2
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"8df41512092240d38550e83dc05e157e:f29f106ec9f58b41c7c8391b64f3bb25"}
+#KODIPROP:inputstream.adaptive.license_key={"ab3698f738c4b90c11de7239cb5ed7c1"}
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36"
-https://live-cito.9c9media.ca/f2ca3f90e91525b7d72012084085c9e35ac9faa51724957469496/f/tsn1/manifest.mpd
+https://live-cito.9c9media.ca/aea92941a144d29228a31fb9f767e5985796dc041725015927969/f/tsn2/manifest.mpd
