@@ -13,7 +13,7 @@
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"0f85a4e1fc5937a827313597d04f8e27":"cc1d8219be0130da85e4c4ce73a75abb"}
+#KODIPROP:inputstream.adaptive.license_key={"0f85a4e1fc5937a827313597d04f8e27:cc1d8219be0130da85e4c4ce73a75abb"}
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36"
 https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/channel(ESPN_HD)/master.mpd
 
