@@ -16,14 +16,14 @@
 #KODIPROP:inputstream.adaptive.license_key={""}
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36"
 
-#EXTINF:-1 tvg-logo="" group-title="",Animax
+#EXTINF:-1 tvg-logo="" group-title="",ABC 7
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"edf1a715de9748638dd2fad75a419af2"}:2f5a3199b26e9b693ae881af7ff864cf"}
+#KODIPROP:inputstream.adaptive.license_key={""}
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36"
-https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
+https://06cu05a.akamaized.net/USA_ABC/index.mpd
 
 #EXTINF:-1 tvg-logo="" group-title="",Channel 5
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=
