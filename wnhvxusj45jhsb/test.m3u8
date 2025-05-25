@@ -1,10 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="" group-title="",ABC BALTIMORE
+#EXTINF:-1 tvg-logo="" group-title="",Just fishing
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={""}
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"
-https://06culive09.akamaized.net/ABC_BALTIMORE/index.mpd
+#KODIPROP:inputstream.adaptive.license_key={"b525beda27045ea70ba6518857a7011d:f37df48d935fcb496f88056c34365e84"}
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+https://ac-003.live.p7s1video.net/90969437/t_003/justfishing-hd/cenc-default.mpd
