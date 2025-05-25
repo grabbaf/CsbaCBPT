@@ -46,10 +46,9 @@ https://dfwlive-v1-c1p3-sponsored.global.ssl.fastly.net/Content/HLS.cps/Live/cha
 #EXTINF:-1 tvg-logo="" group-title="",ABC News Live
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"40a19194931d759f65dbbdc7f11c3347:c9848729f5f6df8d6a9446abb0f97827"}
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36"
+#KODIPROP:inputstream.adaptive.license_key=40a19194931d759f65dbbdc7f11c3347:c9848729f5f6df8d6a9446abb0f97827
 https://dfwlive-v1-c1p3-sponsored.live.cf.dtvcdn.com/Content/HLS.cps/Live/channel(ABCNL-1501.dfw.720)/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",ACC Digital Network
