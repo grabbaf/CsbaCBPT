@@ -16,5 +16,80 @@
 #KODIPROP:inputstream.adaptive.license_key={""}
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36"
 
+#EXTINF:-1 tvg-logo="" group-title="",20/20
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"0094a9d97e86d5b64330e9911e547aa0:ea49d4478fbd6102eba7ef9a785d17be"}
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36"
+https://dfwlive-v1-c1p3-sponsored.live.cf.dtvcdn.com/Content/HLS.cps/Live/channel(DIS2020-1514.dfw.720)/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",ABC 13 (KTNV) Las Vegas, NV
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"543dc8ce3a5b41aabb69fdfe8ceb6f15:015cf6cedde360477ceb88da3bf0e2e4"}
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36"
+https://dfwlive-v1-c2p5-sponsored.global.ssl.fastly.net/Content/HLS.cps/Live/channel(KTNV-8802.dfw.720)/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",ABC Localish
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"019246bc9b4475057f08c389c8e06750:0a1e6288e6240c39fb52cbabead8d65e"}
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36"
+https://dfwlive-v1-c1p3-sponsored.global.ssl.fastly.net/Content/HLS.cps/Live/channel(LOCALSH-1504.dfw.720)/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",ABC News Live
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"40a19194931d759f65dbbdc7f11c3347:c9848729f5f6df8d6a9446abb0f97827"}
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36"
+https://dfwlive-v1-c1p3-sponsored.live.cf.dtvcdn.com/Content/HLS.cps/Live/channel(ABCNL-1501.dfw.720)/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",ACC Digital Network
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"4f7cb88f8eab52fbb84c601907d37e68:37b4f5ad8b90c1ed17cacd1125a2ce84"}
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36"
+https://dfwlive-v1-c1p3-sponsored.live.cf.dtvcdn.com/Content/HLS.cps/Live/channel(ACCDN-1122.dfw.1080)/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",ACC Network HD
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"114092ae5be66c18ef5cf9c499d4df64:e49573f596742bbe8c05796b03aad5d9"}
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36"
+https://dfwlive-v1-c1p1-sponsored.akamaized.net/Content/HLS.cps/Live/channel(ACCUHD-6067.dfw.1080)/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",AccuWeather HD
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"114092ae5be66c18ef5cf9c499d4df64:e49573f596742bbe8c05796b03aad5d9"}
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36"
+https://dfwlive-v1-c1p1-sponsored.akamaized.net/Content/HLS.cps/Live/channel(ACCUHD-6067.dfw.1080)/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Alien Nation by DUST
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"2dd0c42347dbb38110dd011cc75bcbc5:38f5197508265aaedf979d6847013185"}
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36"
+https://dfwlive-v1-c7p4-sponsored.global.ssl.fastly.net/Content/HLS.cps/Live/channel(DUST-8508.dfw.1080)/index.m3u8
+
+
+
+
 
 
