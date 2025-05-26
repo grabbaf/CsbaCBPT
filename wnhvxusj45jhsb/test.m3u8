@@ -5,6 +5,6 @@
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"fa65220c9f76e424173899df533a6d10:b4abbee95b69b3e80a0d141272c870db"}
+#KODIPROP:inputstream.adaptive.license_key="fa65220c9f76e424173899df533a6d10:b4abbee95b69b3e80a0d141272c870db"
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36"
 https://linearjitp-playback.astro.com.my/dash-wv/linear/9982/default_ott.mpd
