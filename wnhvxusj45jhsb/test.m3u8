@@ -1,15 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="TV" tvg-id="RTP1.pt" tvg-logo="",RTP 1
-#EXTVLCOPT:http-user-agent=IE
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f80351a117ba3f17a26e0e8cd4dc00c4:a2226def4bc8f249de2daf36b7c12b1e
-http://streaming-live-app.rtp.pt/liverepeater/rtpClean1HD.smil/manifest.mpd
-
-#EXTINF:-1 group-title="TV" tvg-id="RTP1.pt" tvg-logo="",MeTV
-#EXTVLCOPT:http-user-agent=IE
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key="430d9e7611454633b32c36f7a5fec4f1:5386deaa19d30477412163786459e4d4"
-https://linear.stvacdn.spectrum.com/LIVE/1157/dash/cenc/WNYTDT2_12741/manifest.mpd
+#EXTINF:-1 tvg-logo="" group-title="",Nick Jr. Asia
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"fa65220c9f76e424173899df533a6d10:b4abbee95b69b3e80a0d141272c870db"}
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36"
+https://linearjitp-playback.astro.com.my/dash-wv/linear/9982/default_ott.mpd
