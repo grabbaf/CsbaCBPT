@@ -1,43 +1,8 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="" group-title="",
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=""
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={""}
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36"
-
-#EXTINF:-1 tvg-logo="" group-title="",AXN HD
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=""
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7a100e0455dec1d27ea68eac2444a057:518d58d1998e35f07ae8aa7a7716613a
-#EXTVLCOPT:http-user-agent=""
-https://dish.akamaized.net/Content/DASH/Live/channel(axnhd)/variant.mpd
-
-#EXTINF:-1 tvg-logo="" group-title="",MSNBC
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=""
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7fbd8a75e83336cdaba616c677f3bae9:936b15f1bfeb31c581d16ab2ab83cd65
-EXTVLCOPT:http-user-agent=""
-https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(msnbc)/master.mpd
-
-#EXTINF:-1 tvg-logo="" group-title="",AMC
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=""
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key="11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
-#EXTVLCOPT:http-user-agent=""
-https://dash2.antik.sk/stream/nvidia_amc/playlist_cbcs.mpd
-
-#EXTINF:-1 tvg-logo="" group-title="",FOX Sports
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=""
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"9e276bd34034a2c4dcf61d74e1242fbf:4b466a4affb61d2672a4194b14e10ef2"}
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36"
-https://live1-ott.izzigo.tv/out/u/dash/FOX-SPORTS-HD/default.mpd
-
-
-
+#EXTINF:-1 group-title="TV" tvg-id="RTP1.pt" tvg-logo="",RTP 1
+#EXTVLCOPT:http-user-agent=IE
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f80351a117ba3f17a26e0e8cd4dc00c4:a2226def4bc8f249de2daf36b7c12b1e
+http://streaming-live-app.rtp.pt/liverepeater/rtpClean1HD.smil/manifest.mpd
