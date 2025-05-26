@@ -1,10 +1,8 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="" group-title="",Nick Jr. Asia
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 group-title="TV" tvg-id="RTP1.pt" tvg-logo="",Nick Jr. Asia
+#EXTVLCOPT:http-user-agent=IE
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=fa65220c9f76e424173899df533a6d10:b4abbee95b69b3e80a0d141272c870db
-#EXTVLCOPT:http-user-agent=""
 https://linearjitp-playback.astro.com.my/dash-wv/linear/9982/default_ott.mpd
