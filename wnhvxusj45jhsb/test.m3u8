@@ -1,9 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="" group-title="",FOX Sports 3
+#EXTINF:-1 tvg-logo="" group-title="",USA Network
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=""
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"11c8c1c2ef0385cf1e64d44bb9c3a395":"5769730ffbdc4b2fd8945929d9ace063"}
+#KODIPROP:inputstream.adaptive.license_key={"882c9f5613b43b47adc70aa968a308ce":"de534ef8914bfe62ba3cdd6bdb9e1c04"}
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36"
-https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wybgz0orr8/out/v1/2f6d1612abd44f5883917f8a585b955f/cenc.mpd
+https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-east)/master.mpd
