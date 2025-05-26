@@ -7,9 +7,9 @@
 #KODIPROP:inputstream.adaptive.license_key=f80351a117ba3f17a26e0e8cd4dc00c4:a2226def4bc8f249de2daf36b7c12b1e
 http://streaming-live-app.rtp.pt/liverepeater/rtpClean1HD.smil/manifest.mpd
 
-#EXTINF:-1 group-title="TV" tvg-id="RTP1.pt" tvg-logo="",Golden Multiplex
+#EXTINF:-1 group-title="TV" tvg-id="RTP1.pt" tvg-logo="",MeTV
 #EXTVLCOPT:http-user-agent=IE
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f23601997bc024ea96b6b9d1e2b8b3fc:521a2cfdd3f649a9543422dc41fa4ca0
-https://live1-ott.izzigo.tv/14/out/u/dash/GOLDEN-MULTIPLEX/default.mpd
+#KODIPROP:inputstream.adaptive.license_key="430d9e7611454633b32c36f7a5fec4f1:5386deaa19d30477412163786459e4d4"
+https://linear.stvacdn.spectrum.com/LIVE/1157/dash/cenc/WNYTDT2_12741/manifest.mpd
