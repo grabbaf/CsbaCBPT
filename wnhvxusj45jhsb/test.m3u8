@@ -35,7 +35,7 @@ https://dash2.antik.sk/stream/nvidia_amc/playlist_cbcs.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=""
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9e276bd34034a2c4dcf61d74e1242fbf:4b466a4affb61d2672a4194b14e10ef2
+#KODIPROP:inputstream.adaptive.license_key={"9e276bd34034a2c4dcf61d74e1242fbf:4b466a4affb61d2672a4194b14e10ef2"}
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36"
 https://live1-ott.izzigo.tv/out/u/dash/FOX-SPORTS-HD/default.mpd
 
