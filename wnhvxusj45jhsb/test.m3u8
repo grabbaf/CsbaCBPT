@@ -1,10 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="" group-title="",WIN Sports Plus
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=yJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHA6Ly9kMzViM3I4bnRwenU5dS5hczViNy5uZXQvVFZEMjgzMy8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzMxMzQ2MTk2fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9LCJEYXRlR3JlYXRlclRoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTczMTMxNzM5Nn19fV0sICJVc2VyVG9rZW4iOiIwMDAwMDAwMDAwMDAwMTAyMzk2ODIwMjQxMTExMTczMDAxMTg3OCJ9;CloudFront-Signature=WaMK1fiWg2YUgx4xLC7yapGFjDo4~gFRuqR0haFy2XCMiUzXZTKYeuyWdpYB-3BrCsvduJsFXaV2iOAwyA0xoEBVgAzjMx53pA5ehX-HVNgzqswxliuKncVKUH5~3LajtDtB4y8pPPuyA-Ss~NKJXehNk6cxlEeJ9DjG91NJjzVKruWdg4YrOBg0iEWZa8g608UPvIp5zSOJ8XUyOdeJL-9eISWw12ceXCWgk0bRTBIcI3qwTS4bYi1lRGGorJK6mUCHKHA1i0sKGgQWnJ2h~gKI07KC5xQ27TSBmIF6aVJoJfmttpkEfF0LxUc3ynqAgKqslU1YT8c7UlMTh6J-0A__;CloudFront-Key-Pair-Id=K90W0I58USR0U"
+#EXTINF:-1 tvg-logo="" group-title="",FOX Sports 3
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=""
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"f6b30a661c69b70039e4eb51247c4d10:243493e4a7fac9577326e15f0169f938"}
+#KODIPROP:inputstream.adaptive.license_key={"11c8c1c2ef0385cf1e64d44bb9c3a395":"5769730ffbdc4b2fd8945929d9ace063"}
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36"
-https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(WINPREMIUM)/manifest.mpd
+https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wybgz0orr8/out/v1/2f6d1612abd44f5883917f8a585b955f/cenc.mpd
