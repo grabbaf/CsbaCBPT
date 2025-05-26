@@ -8,3 +8,26 @@
 #KODIPROP:inputstream.adaptive.license_key={"b525beda27045ea70ba6518857a7011d:f37df48d935fcb496f88056c34365e84"}
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
 https://ac-003.live.p7s1video.net/90969437/t_003/justfishing-hd/cenc-default.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="",Sky Action
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"000397ec797bffa6a7d2f5f14bf3f90b:644bb73f541fb127d218ddfc0fccb38f"}
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36"
+https://linear013-gb-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(skysportsaction)/manifest_720-120.mpd?c3.ri=13629131748806372583
+
+#EXTINF:-1 tvg-logo="" group-title="",Sky Arena
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"000516903d55e9706d1661c489ee94da:acf37edb85d8a99a8cfb8ed5e3e9acf2"}
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36"
+https://linear028-gb-dash1-prd-ll.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(skysportsarena)/manifest_720-120.mpd?c3.ri=13497964409462081226
+
+
+
+
+
