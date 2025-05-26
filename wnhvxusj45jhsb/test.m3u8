@@ -2,7 +2,6 @@
 
 #EXTINF:-1 tvg-logo="" group-title="",FOX Sports 3
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=""
-#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"11c8c1c2ef0385cf1e64d44bb9c3a395":"5769730ffbdc4b2fd8945929d9ace063"}
