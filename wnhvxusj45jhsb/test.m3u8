@@ -12,23 +12,23 @@
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key="{7a100e0455dec1d27ea68eac2444a057":"518d58d1998e35f07ae8aa7a7716613a}"
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36"
+#EXTVLCOPT:http-user-agent=""
 https://dish.akamaized.net/Content/DASH/Live/channel(axnhd)/variant.mpd
 
 #EXTINF:-1 tvg-logo="" group-title="",MSNBC
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=""
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"7fbd8a75e83336cdaba616c677f3bae9:936b15f1bfeb31c581d16ab2ab83cd65"}
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36"
+#KODIPROP:inputstream.adaptive.license_key="7fbd8a75e83336cdaba616c677f3bae9:936b15f1bfeb31c581d16ab2ab83cd65"
+EXTVLCOPT:http-user-agent=""
 https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(msnbc)/master.mpd
 
 #EXTINF:-1 tvg-logo="" group-title="",AMC
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=""
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"}
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36"
+#KODIPROP:inputstream.adaptive.license_key="11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
+#EXTVLCOPT:http-user-agent=""
 https://dash2.antik.sk/stream/nvidia_amc/playlist_cbcs.mpd
 
 #EXTINF:-1 tvg-logo="" group-title="",TNT Sports 4
