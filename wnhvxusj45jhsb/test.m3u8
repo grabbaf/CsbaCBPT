@@ -1,10 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="" group-title="",MeTV
+#EXTINF:-1 tvg-logo="" group-title="",Bein 1
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key="Qw2edhFFRjOzLDb3pf7E8Q:U4beqhnTBHdBIWN4ZFnk1A"
+#KODIPROP:inputstream.adaptive.license_key="1a655189ab5c49eb235308c2b1a9e710:3c4508af348844107f5e026a4fd6b16e"
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36"
-https://linear.stvacdn.spectrum.com/LIVE/1157/dash/cenc/WNYTDT2_12741/manifest.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/408/default_ott.mpd
