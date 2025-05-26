@@ -7,7 +7,6 @@
 #KODIPROP:inputstream.adaptive.license_key={""}
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36"
 
-
 #EXTINF:-1 tvg-logo="" group-title="",USA Network (East)
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=""
 #KODIPROP:inputstream.adaptive.manifest_type=dash
