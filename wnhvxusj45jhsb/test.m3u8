@@ -1,8 +1,8 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="TV" tvg-id="RTP1.pt" tvg-logo="",ABC Kids
+#EXTINF:-1 group-title="TV" tvg-id="RTP1.pt" tvg-logo="",ABC Family
 #EXTVLCOPT:http-user-agent=IE
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key="b70a4c3a102b47ec832d11da8a024161:8bd84110abda56e41511c16feaa2de69"
-https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/8c6fa500258e44289312adb342b0f7ad/index.mpd
+#KODIPROP:inputstream.adaptive.license_key="561611703c4b4749973a73e7bb1d0af2:f90bd049ac3734d46fe66f89f02f1f0f"
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/37140e68f8124d45a0dc673d3a34af11/index.mpd
