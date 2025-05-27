@@ -1,8 +1,8 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="TV" tvg-id="RTP1.pt" tvg-logo="",ABC Localish
+#EXTINF:-1 group-title="TV" tvg-id="RTP1.pt" tvg-logo="",ABC Kids
 #EXTVLCOPT:http-user-agent=IE
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key="019246bc9b4475057f08c389c8e06750:0a1e6288e6240c39fb52cbabead8d65e"
-https://dfwlive-v1-c1p3-sponsored.live.cf.dtvcdn.com/Content/HLS.cps/Live/channel(LOCALSH-1504.dfw.720)/index.m3u8
+#KODIPROP:inputstream.adaptive.license_key="b70a4c3a102b47ec832d11da8a024161:8bd84110abda56e41511c16feaa2de69"
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/8c6fa500258e44289312adb342b0f7ad/index.mpd
