@@ -7,7 +7,7 @@
 #KODIPROP:inputstream.adaptive.license_key="561611703c4b4749973a73e7bb1d0af2:f90bd049ac3734d46fe66f89f02f1f0f"
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/37140e68f8124d45a0dc673d3a34af11/index.mpd
 
-#EXTINF:-1 group-title="TV" tvg-id="RTP1.pt" tvg-logo="",ABC Family
+#EXTINF:-1 group-title="TV" tvg-id="RTP1.pt" tvg-logo="",Nickelodeon
 #EXTVLCOPT:http-user-agent=IE
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
