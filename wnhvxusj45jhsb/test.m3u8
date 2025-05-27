@@ -1,8 +1,8 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="TV" tvg-id="RTP1.pt" tvg-logo="",Nick Jr. Asia
+#EXTINF:-1 group-title="TV" tvg-id="RTP1.pt" tvg-logo="",ABC Localish
 #EXTVLCOPT:http-user-agent=IE
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=fa65220c9f76e424173899df533a6d10:b4abbee95b69b3e80a0d141272c870db
-https://linearjitp-playback.astro.com.my/dash-wv/linear/9982/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key=019246bc9b4475057f08c389c8e06750:0a1e6288e6240c39fb52cbabead8d65e
+https://dfwlive-v1-c1p3-sponsored.live.cf.dtvcdn.com/Content/HLS.cps/Live/channel(LOCALSH-1504.dfw.720)/index.m3u8
