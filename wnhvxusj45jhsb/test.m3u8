@@ -74,5 +74,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5095/default_ott.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=b5bfe3554df2abcd37afe130a7e1d310:dccbdf043ac43d18be0b3eb43a582876
+#KODIPROP:inputstream.adaptive.license_key={"b5bfe3554df2abcd37afe130a7e1d310:dccbdf043ac43d18be0b3eb43a582876"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(knbc)/master.mpd
