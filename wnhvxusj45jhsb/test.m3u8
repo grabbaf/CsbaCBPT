@@ -7,12 +7,12 @@
 #KODIPROP:inputstream.adaptive.license_key=
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",Gane Show Network
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=
-
+#KODIPROP:inputstream.adaptive.license_key=26cc885df1dbac3309baf5d52ba4cb59:ee110e10a656b7427cdc4d6f27cfdc40
+https://dfwlive-v1-c7p1-sponsored.global.ssl.fastly.net/Content/HLS.cps/Live/channel(GSNHD-8987.dfw.1080)/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",
 #KODIPROP:inputstreamaddon=inputstream.adaptive
