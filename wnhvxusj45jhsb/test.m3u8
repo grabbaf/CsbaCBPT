@@ -91,12 +91,12 @@ https://cfrt.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(vc122ycnuy
 #KODIPROP:inputstream.adaptive.license_key=0020441738b197a02c0e5cd63df71fd8:5ebcc56b9cd51e6f4fbbb28990dff3ab
 https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(vc110k6s0r)/master_2min.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",Hallmark Movies
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=
-
+#KODIPROP:inputstream.adaptive.license_key=da0e006d3ac546e5a11be3bbbe7bc19a:fcaf53d50469fcfacb450ac4b2d0dab8
+https://linear.stvacdn.spectrum.com/LIVE/1162/dash/cenc/HMMHD_00112/manifest.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",
 #KODIPROP:inputstreamaddon=inputstream.adaptive
