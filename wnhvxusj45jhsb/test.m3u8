@@ -98,6 +98,11 @@ https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(vc110k6s0r
 #KODIPROP:inputstream.adaptive.license_key=da0e006d3ac546e5a11be3bbbe7bc19a:fcaf53d50469fcfacb450ac4b2d0dab8
 https://linear.stvacdn.spectrum.com/LIVE/1162/dash/cenc/HMMHD_00112/manifest.mpd
 
+#EXTINF:-1 tvg-id="BBCEarth" group-title="Documentaries" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/2019071606454895082c.png" ch-number="554",554 BBC Earth
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"uxvbJ8xf4exjfSV5mTRMww", "kid":"2/Yv8IBLxbjVI+8AnXhjEA" } ], "type":"temporary" }
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5051/default.mpd
+
 #EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
