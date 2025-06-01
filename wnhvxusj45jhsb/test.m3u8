@@ -1,6 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",20/20
+#EXTVLCOPT:http-user-agent=IE
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -8,6 +9,7 @@
 https://dfwlive-v1-c1p3-sponsored.live.cf.dtvcdn.com/Content/HLS.cps/Live/channel(DIS2020-1514.dfw.720)/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",ABC Localish
+#EXTVLCOPT:http-user-agent=IE
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -15,6 +17,7 @@ https://dfwlive-v1-c1p3-sponsored.live.cf.dtvcdn.com/Content/HLS.cps/Live/channe
 https://dfwlive-v1-c1p3-sponsored.live.cf.dtvcdn.com/Content/HLS.cps/Live/channel(LOCALSH-1504.dfw.720)/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",ABC News Live
+#EXTVLCOPT:http-user-agent=IE
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -22,6 +25,7 @@ https://dfwlive-v1-c1p3-sponsored.live.cf.dtvcdn.com/Content/HLS.cps/Live/channe
 https://dfwlive-v1-c1p3-sponsored.live.cf.dtvcdn.com/Content/HLS.cps/Live/channel(ABCNL-1501.dfw.720)/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",ACC Digital Network
+#EXTVLCOPT:http-user-agent=IE
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
