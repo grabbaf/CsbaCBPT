@@ -1,61 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",20/20
-#EXTVLCOPT:http-user-agent=IE
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0094a9d97e86d5b64330e9911e547aa0:ea49d4478fbd6102eba7ef9a785d17be
-https://dfwlive-v1-c1p3-sponsored.live.cf.dtvcdn.com/Content/HLS.cps/Live/channel(DIS2020-1514.dfw.720)/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",ABC Localish
-#EXTVLCOPT:http-user-agent=IE
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=019246bc9b4475057f08c389c8e06750:0a1e6288e6240c39fb52cbabead8d65e
-https://dfwlive-v1-c1p3-sponsored.live.cf.dtvcdn.com/Content/HLS.cps/Live/channel(LOCALSH-1504.dfw.720)/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",ABC News Live
-#EXTVLCOPT:http-user-agent=IE
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=40a19194931d759f65dbbdc7f11c3347:c9848729f5f6df8d6a9446abb0f97827
-https://dfwlive-v1-c1p3-sponsored.live.cf.dtvcdn.com/Content/HLS.cps/Live/channel(ABCNL-1501.dfw.720)/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",ACC Digital Network
-#EXTVLCOPT:http-user-agent=IE
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=4f7cb88f8eab52fbb84c601907d37e68:37b4f5ad8b90c1ed17cacd1125a2ce84
-https://dfwlive-v1-c1p3-sponsored.global.ssl.fastly.net/Content/HLS.cps/Live/channel(ACCDN-1122.dfw.1080)/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=
-
