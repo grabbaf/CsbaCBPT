@@ -16,18 +16,18 @@ https://cvtv.cvalley.net/hls/KTVOCBS/KTVOCBS.m3u8
 https://cvtv.cvalley.net/hls/KYOUFOX/KYOUFOX.m3u8
 #EXTINF:-4, KOMU Columbia (CW)
 https://cvtv.cvalley.net/hls/KOMUCW/KOMUCW.m3u8
-#EXTINF:-4, KMIZ MeTV
+#EXTINF:-4, KMIZ (MeTV)
 https://cvtv.cvalley.net/hls/KMIZMeTV/KMIZMeTV.m3u8
 #EXTINF:-4, KOMU Columbia (NBC)
 https://cvtv.cvalley.net/hls/KOMUNBC/KOMUNBC.m3u8
 #EXTINF:-4, KYOU Ottumwa (NBC)
 https://cvtv.cvalley.net/hls/KYOUNBC/KYOUNBC.m3u8
 https://cvtv.cvalley.net/hls/KYOUNBC2/KYOUNBC2.m3u8
-#EXTINF:-4, KYOU Grit
+#EXTINF:-4, KYOU (Grit)
 https://cvtv.cvalley.net/hls/KYOUGrit/KYOUGrit.m3u8
-#EXTINF:-4, KTVO Comet
+#EXTINF:-4, KTVO (Comet)
 https://cvtv.cvalley.net/hls/KTVOComet/KTVOComet.m3u8
-#EXTINF:-4, KYOU Circle / THE365
+#EXTINF:-4, KYOU (Circle/THE365)
 https://cvtv.cvalley.net/hls/KYOUCircle/KYOUCircle.m3u8
 #EXTINF:-4, KCPT Kansas City (PBS)
 https://cvtv.cvalley.net/hls/KCPTPBS/KCPTPBS.m3u8
@@ -37,39 +37,39 @@ https://cvtv.cvalley.net/hls/KMBCABC/KMBCABC.m3u8
 https://cvtv.cvalley.net/hls/KCTVCBS/KCTVCBS.m3u8
 #EXTINF:-4, WDAF Kansas City (FOX)
 https://cvtv.cvalley.net/hls/WDAFFox/WDAFFox.m3u8
-#EXTINF:-4, KMBC MeTV
+#EXTINF:-4, KMBC (MeTV)
 https://cvtv.cvalley.net/hls/KMBCMeTV/KMBCMeTV.m3u8
-#EXTINF:-4, KCWE CW
+#EXTINF:-4, KCWE (CW)
 https://cvtv.cvalley.net/hls/KCWECW/KCWECW.m3u8
 #EXTINF:-4, KSHB Kansas City (NBC)
 https://cvtv.cvalley.net/hls/KSHBNBC/KSHBNBC.m3u8
 #EXTINF:-4, KSMO (IND)
 https://cvtv.cvalley.net/hls/KSMOIND/KSMOIND.m3u8
-#EXTINF:-4, WDAF AntennaTV
+#EXTINF:-4, WDAF (AntennaTV)
 https://cvtv.cvalley.net/hls/WDAFAntenna/WDAFAntenna.m3u8
-#EXTINF:-4, KSHB Laff
+#EXTINF:-4, KSHB (Laff)
 https://cvtv.cvalley.net/hls/KSHBLaff/KSHBLaff.m3u8
-#EXTINF:-4, KMCI BounceTV
+#EXTINF:-4, KMCI (BounceTV)
 https://cvtv.cvalley.net/hls/KMCIBounceTV/KMCIBounceTV.m3u8
-#EXTINF:-4, KSHB Grit
+#EXTINF:-4, KSHB (Grit)
 https://cvtv.cvalley.net/hls/KSHBCozi/KSHBCozi.m3u8
 #EXTINF:-4, KMIZ Columbia (ABC)
 https://cvtv.cvalley.net/hls/KMIZABC/KMIZABC.m3u8
-#EXTINF:-4, KMIZ MyZOU
+#EXTINF:-4, KMIZ (MyZOU)
 https://cvtv.cvalley.net/hls/KZOUMYZOU/KZOUMYZOU.m3u8
 #EXTINF:-4, KMCI (IND)
 https://cvtv.cvalley.net/hls/KMCIIND/KMCIIND.m3u8
-#EXTINF:-4, KSMO H&I
+#EXTINF:-4, KSMO (H&I)
 https://cvtv.cvalley.net/hls/KSMODT2/KSMODT2.m3u8
-#EXTINF:-4, KSMO CoziTV
+#EXTINF:-4, KSMO (CoziTV)
 https://cvtv.cvalley.net/hls/KSMODT4/KSMODT4.m3u8
-#EXTINF:-4, KSMO Comet
+#EXTINF:-4, KSMO (Comet)
 https://cvtv.cvalley.net/hls/KSMODT5/KSMODT5.m3u8
-#EXTINF:-4, KYOU CW
+#EXTINF:-4, KYOU (CW)
 https://cvtv.cvalley.net/hls/KYOUDT4/KYOUDT4.m3u8
-#EXTINF:-4, KYOU True Crime Network
+#EXTINF:-4, KYOU (True Crime Network)
 https://cvtv.cvalley.net/hls/KYOUDT6/KYOUDT6.m3u8
-#EXTINF:-4, KPXE ION
+#EXTINF:-4, KPXE (ION)
 https://cvtv.cvalley.net/hls/KPXEION/KPXEION.m3u8
 #EXTINF:-4, KHQA Hannibal (ABC)
 https://cvtv.cvalley.net/hls/KHQADT2/KHQADT2.m3u8
