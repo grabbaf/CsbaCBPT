@@ -11,5 +11,5 @@
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"nQ4dMqzjUy6B+yG+UpScVg","k":"VK4ZSwgxEvMAjpBTE75Qkw"},{"kty":"oct","kid":"gqd7QBwMW+OlkHuZYniDNw","k":"aVYIUQJIWS4EiVT1Msadtw"},{"kty":"oct","kid":"nCYqKRxgWQutexvwu1Sqow","k":"ofakiM4X2fxqLxerMh/7Vg"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"9c262a291c60590bad7b1bf0bb54aaa3:a1f6a488ce17d9fc6a2f17ab321ffb56"}
 https://tvup-live.akamaized.net/axnwhite6/axnwhite6.mpd
