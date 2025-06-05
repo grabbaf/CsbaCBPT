@@ -7,9 +7,9 @@
 #KODIPROP:inputstream.adaptive.license_key=
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",AXN MOVIES HD
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",Sky Sports Cricket HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"9d0e1d32ace3532e81fb21be52949c56:54ae194b083112f3008e905313be5093","82a77b401c0c5be3a5907b9962788337:695608510248592e048954f532c69db7","9c262a291c60590bad7b1bf0bb54aaa3:a1f6a488ce17d9fc6a2f17ab321ffb56"}
-https://cors-proxy.cooks.fyi/https://tvup-live.akamaized.net/axnwhite6/axnwhite6.mpd
+#KODIPROP:inputstream.adaptive.license_key=0003ebd896e56bfb036e1a91be3d70ad:09296eaee9a23dd63c4fc8c7e95b800c
+http://linear003-gb-dash1-prd-ll.cdn.skycdp.com/016a/Content/DASH_003_sd/Live/channel(skysportscricket)/manifest_hd.mpd?c3.ri=13628536178998282813
