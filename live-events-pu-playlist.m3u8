@@ -1,0 +1,36 @@
+#EXTM3U 
+###############FORMATTING#################
+#EXTINF:-1 group-title="CATEGORY" tvg-logo="",TITLE
+#EXTINF:-1 group-title="" tvg-logo="",Streamed
+#EXTVLCOPT:http-origin=https://embedstreams.top
+#EXTVLCOPT:http-referrer=https://embedstreams.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
+
+#EXTINF:-1 group-title="" tvg-logo="",ppv
+#EXTVLCOPT:http-origin=https://ppv.wtf
+#EXTVLCOPT:http-referrer=https://ppv.wtf/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
+############################################
+#EXTINF:-1 group-title="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10179_dark_360w_270h.png",ESPN
+#EXTVLCOPT:http-origin=https://embedstreams.top
+#EXTVLCOPT:http-referrer=https://embedstreams.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
+https://rr.buytommy.top/secure/wkzmzYMsaE/alpha/stream/espn/1/playlist.m3u8
+
+#EXTINF:-1 group-title="" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/imgs/formula-logo.png",Sky Sports F1 
+#EXTVLCOPT:http-origin=https://embedstreams.top
+#EXTVLCOPT:http-referrer=https://embedstreams.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
+https://rr.buytommy.top/secure/RjYffchwiH/alpha/stream/sky-sports-f1-sky-f1/1/playlist.m3u8
+############################################
+#EXTINF:-1 group-title="" tvg-logo="",Title
+#EXTVLCOPT:http-origin=https://embedstreams.top
+#EXTVLCOPT:http-referrer=https://embedstreams.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
+
+
+#EXTINF:-1 group-title="" tvg-logo="",Mexico vs Switzerland Stream Alpha 1
+#EXTVLCOPT:http-origin=https://embedstreams.top
+#EXTVLCOPT:http-referrer=https://embedstreams.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
+https://rr.buytommy.top/secure/nUWRjobYFN/alpha/stream/mexico-vs-switzerland/1/playlist.m3u8
