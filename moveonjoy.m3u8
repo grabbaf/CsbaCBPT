@@ -27,6 +27,9 @@ http://fl3.moveonjoy.com/American_Heroes_Channel/index.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-id="Animal.Planet.US.-.East.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/animal-planet-us.png" tvg-name="Animal Planet",Animal Planet
 http://fl3.moveonjoy.com/Animal_Planet/index.m3u8
 
+#EXTINF:-1 group-title="Entertainment" tvg-id="Antenna.TV.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/antenna-us.png" tvg-name="Antenna",Antenna
+http://fl3.moveonjoy.com/Antenna/index.m3u8
+
 #EXTINF:-1 group-title="Entertainment" tvg-id="ASPiRE.TV.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/aspire-tv-us.png" tvg-name="Aspire",Aspire
 http://fl3.moveonjoy.com/Aspire/index.m3u8
 
