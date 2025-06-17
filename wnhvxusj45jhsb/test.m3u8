@@ -21,6 +21,11 @@
 #KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
 https://doitdarius-grabba.hf.space/proxy?url=https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-045/stream.mpd?p=web
 
+#EXTINF:-1 tvg-id="BBCLifestyle" ch-number="717" group-title="Entertainment" tvg-logo="http://playtv.unifi.com.my:7039/CPS...logo/201907/20190716/20190716064944437peu.png",BBC Lifestyle HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f429292dc744f284355308561577ac10:b12e1f894129c517dc8845baaeebec8a
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5050/default.mpd
+
 #EXTINF:-1 tvg-id = "PremierSports" group-title = "Sports" ch-number = "823" tvg-logo = "http://linear-poster.astro.com.my/prod/logo/PremierSports.png", Premier Sports HD
 #KODIPROP:inputstream.adaptive.license_type=Clearkey
 #KODIPROP:inputstream.adaptive.license_key=9bfeb5068725617dbad6338473da6d10:06577ffcc4935ba24aff4c4c9dd6846d
