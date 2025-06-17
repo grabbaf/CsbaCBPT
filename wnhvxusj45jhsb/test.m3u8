@@ -14,8 +14,9 @@
 #KODIPROP:inputstream.adaptive.license_key=
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",DAZN 1 UK
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-045/stream.mpd?p=web
