@@ -12,18 +12,3 @@
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",Animal Planet HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=3ad8a720ab07cc8464a128a7c152a0bd:a3982ffee5cccdb46f4012f3e621d33a
-https://cors-proxy.cooks.fyi/https://dfwlive-v1-c4p5-sponsored.akamaized.net/Content/HLS.cps/Live/channel(APLHD-8205.dfw.1080)/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",MTV West HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=2f599124e67cfb822c9ffd008fe1f599:4da6a7cc49b7d317a0c2f3c4851cee18
-https://cors-proxy.cooks.fyi/https://dfwlive-v1-c4p4-sponsored.akamaized.net/Content/HLS.cps/Live/channel(MTVWHD-2600.dfw.1080)/index.m3u8
