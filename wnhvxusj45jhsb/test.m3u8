@@ -25,7 +25,7 @@
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",BR HD
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=75b0228ab66d56b9b239bfbcb4a75382:5e5c787039d6cbd337f06de714af0e08
+#KODIPROP:inputstream.adaptive.license_key=96fb7e8f5bf15107b5c10883ad28f757:e2086404885de2bf241ea197be286789
 #EXTVLCOPT:http-origin=https://tv.magenta.at
 #EXTVLCOPT:http-referrer=https://tv.magenta.at
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
