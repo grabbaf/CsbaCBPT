@@ -23,8 +23,12 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
 
 
-
-
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",MTV HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=28d606900a945c448918d5ddf2ec3912:e2ed6f9cd5f72d7df2a9a8cd50eb7cec
+https://at-live-2.tentcdn.eu/bpk-tv/MTV_HD/default/index.mpd
 
 
 
