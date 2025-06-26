@@ -24,6 +24,8 @@
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",MTV HD
+#EXTVLCOPT:http-origin=https://tv.magenta.at
+#EXTVLCOPT:http-referrer=https://tv.magenta.at
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
