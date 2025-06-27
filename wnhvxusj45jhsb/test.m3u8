@@ -14,11 +14,11 @@
 #KODIPROP:inputstream.adaptive.license_key=
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",USA NETWORK EAST US
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",USA NETWORK WEST US
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"3k0xx_xgBe3iirqyoHIKnw","kid":"eKtk-pDxN6aXdDtdwnsvlg"}],"type":"temporary"}
-https://cfrt.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-east)/master.mpd
+#KODIPROP:inputstream.adaptive.license_key=333962e3e1383529867a9a0e28a5e5d1:5d3fcbed53749ee622ed0e64f31c1cbf
+https://cfrt.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",MTV HD
 #EXTVLCOPT:http-origin=https://tv.magenta.at
