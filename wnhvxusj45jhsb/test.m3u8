@@ -16,13 +16,13 @@
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",USA NETWORK WEST US
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=252a671825ba31ec8433f978c32ccf6d:ee560759ecc8d2274df2e63fcef56915
+#KODIPROP:inputstream.adaptive.license_key={"252a671825ba31ec8433f978c32ccf6d:ee560759ecc8d2274df2e63fcef56915"}
 https://cfrt.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Hallmark Channel 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0020c970519e635452e81e2496c919ca:87114e92d957670e78e6d38113c340c5
+#KODIPROP:inputstream.adaptive.license_key={"0020c970519e635452e81e2496c919ca:87114e92d957670e78e6d38113c340c5"}
 https://cfrt.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc130gttyz)/master_2min.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Hallmark Mystery
@@ -53,7 +53,7 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(vc112xzr75
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0020283ab8e5d2f36f3652f7c2338c57:b02e021c2d46c4ecf4214e239eb4b0e4
+#KODIPROP:inputstream.adaptive.license_key={"0020283ab8e5d2f36f3652f7c2338c57:b02e021c2d46c4ecf4214e239eb4b0e4"}
 https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(vc110k6s0r)/master_2min.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",SNL Vault
