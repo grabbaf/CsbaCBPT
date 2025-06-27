@@ -139,12 +139,12 @@ https://cfrt.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc1397yzck
 #KODIPROP:inputstream.adaptive.license_key=0020103077f01f7343b03e497a636169:3c38d1ab5a1011bb1d0d96232ac0ed27
 https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc131pdfws)/master_2min.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",Nickelodeon (East)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=
-
+#KODIPROP:inputstream.adaptive.license_key="f1a2263962884ea0a80909674a30ff82:7851f7e568a1ceb11024e1adc59cec29,885e58ff1be042758bac9877d6db5921:b913c005e62ec80673e1036e76e35b83,af645e9fcb034186935a77ffb07e1407:f31929e3deacfba2b5806febd0d2b99c"
+https://www.philo.com/manifestv2/live/NIKHD/manifest.mpd?content_host=prod.cdn-fsty.philo.com&dspid=web-48d11e60-4eef-11f0-9f1c-6d16d9cb81f0&sdpid=3-web-ad0b297a-d500-4df1-a7fc-939d1bd54e5e&z_start_time=2025-06-21T22%3A00%3A00.000Z&sdsn=1
 
 #EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",Ebony TV 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -181,11 +181,12 @@ https://cfrt.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(vc124phhny
 #KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
 https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(vc1021n07j)/master_2min.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",Disney XD Canada
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+#KODIPROP:inputstream.adaptive.license_key=39cebece8b36640f9ba3f248ecfdf86a:fad936249e036830aa5bef41bec05326
+https://a53aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/jts4tzzv1k/out/v1/8a5b29f7068c415aa371ea95743382e6/cenc.mpd
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",WWE Network
@@ -195,54 +196,54 @@ https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(vc1021n07j
 #KODIPROP:inputstream.adaptive.license_key=00208c93f4358213b52220898b962385:8ae6063167228e350dd132d4a1573102
 https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(vc106wh3yw)/master_2min.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",4E
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+#KODIPROP:inputstream.adaptive.license_key=0000000000000000000000000065340a:88a5d26b2dc54896693dea815df7c592
+https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(c4)/manifest.mpd
 
-
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",More4
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+#KODIPROP:inputstream.adaptive.license_key=000000000000000000000000006d340a:efee11d60dd6a2afb6865fc141e1c4a0
+https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(e4)/manifest.mpd
 
-
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",4 Film
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+#KODIPROP:inputstream.adaptive.license_key=0000000000000000000000000066340a:627bcdc9e9556a74b05c5d311d8d2a61
+https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(m4)/manifest.mpd
 
-
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",4seven
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+#KODIPROP:inputstream.adaptive.license_key=0000000000000000000000000034730a:19bfb83e0e0f40f6eef4eccedbfa7bb8
+https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(f4)/manifest.mpd
 
-
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",TNT Sport 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+#KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
+https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_6/dash.mpd
 
-
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",TNT Sport 2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+#KODIPROP:inputstream.adaptive.license_key=6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
+https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
 
-
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",TNT Sport 3
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=
-
+#KODIPROP:inputstream.adaptive.license_key=4e993aa8c1f295f8b94e8e9e6f6d0bfe:86a1ed6e96caab8eb1009fe530d2cf4f
+https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
 
 
 
