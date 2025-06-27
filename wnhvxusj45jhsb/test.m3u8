@@ -42,12 +42,12 @@ https://svc40.main.sl.t-online.de/LCID3221228277.originalserver.prod.sngtv.t-onl
 #KODIPROP:inputstream.adaptive.license_key=1a05bebf706408431a390c3f9f40f410:89c5ff9f8e65c7fe966afbd2f9128e5f
 https://bypass.muddy-bird-9b91.workers.dev/dash-wv/linear/509/default_ott.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",AXN MOVIES FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=
-
+#KODIPROP:inputstream.adaptive.license_key={"9d0e1d32ace3532e81fb21be52949c56:54ae194b083112f3008e905313be5093","9c262a291c60590bad7b1bf0bb54aaa3:a1f6a488ce17d9fc6a2f17ab321ffb56","82a77b401c0c5be3a5907b9962788337:695608510248592e048954f532c69db7"}
+https://tvup-live.akamaized.net/axnwhite6/axnwhite6.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",
 #KODIPROP:inputstreamaddon=inputstream.adaptive
