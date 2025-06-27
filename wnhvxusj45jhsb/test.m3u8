@@ -46,7 +46,7 @@ https://p-asia.onrender.com/https://bypass.muddy-bird-9b91.workers.dev/dash-wv/l
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"9d0e1d32ace3532e81fb21be52949c56:54ae194b083112f3008e905313be5093","9c262a291c60590bad7b1bf0bb54aaa3:a1f6a488ce17d9fc6a2f17ab321ffb56","82a77b401c0c5be3a5907b9962788337:695608510248592e048954f532c69db7"}
+#KODIPROP:inputstream.adaptive.license_key={"9d0e1d32ace3532e81fb21be52949c56":"54ae194b083112f3008e905313be5093","9c262a291c60590bad7b1bf0bb54aaa3:a1f6a488ce17d9fc6a2f17ab321ffb56","82a77b401c0c5be3a5907b9962788337:695608510248592e048954f532c69db7"}
 https://tvup-live.akamaized.net/axnwhite6/axnwhite6.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",Family
