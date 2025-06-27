@@ -14,3 +14,84 @@
 #KODIPROP:inputstream.adaptive.license_key=
 
 
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",Eurosport 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=598c045c18f274d83db6ba32bda0cabb:e1d969dcc937c665d5560dc3675c688f
+https://svc40.main.sl.t-online.de/LCID3221228290.originalserver.prod.sngtv.t-online.de/PLTV/88888888/224/3221228290/3221228290.mpd?rrsip=slbrrmfk11100.prod.sngtv.t-online.de&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7EH4rrsssh6HWvSiblwU1D1w%7EtFUPuGZ4BFefE0SN1KN7OaNuRih3llSYW00VrrO7_dVYZVqVUq8zPJLJciatIrA5Bxl1xbs_IdAUWP8Qkku5tQ7ieIEdMOp7rZcaRO70jWxNtsuTl73RuP5WAb-_cmbm%3A20221222082846%3AUTC%2C1128844350%2C80.239.140.66%2C20221222082846%2Ceurosport%2CDC985C2EA3D33AC28631D58AB5128539%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C120049010000000205550088%2C0%2C120049010000000205550088%2C1bdc286a-aad0-4fff-b241-3520fd40a43f%2C7%2CEND&GuardEncType=2
+
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",More Than Sports TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b56791608b373e1f4e2d79936cb2e5f9:97a25f403481bc40c55af84e5e592038
+https://svc40.main.sl.t-online.de/LCID3221228378.originalserver.prod.sngtv.t-online.de/PLTV/88888888/224/3221228378/3221228378.mpd?rrsip=slbrrmfk11100.prod.sngtv.t-online.de&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7Eaoy-F75HLLrQ2mCOb_3Jvg%7EtFUPuGZ4BFefE0SN1KN7OaNuRih3llSYW00VrrO7_dVYZVqVUq8zPJLJciatIrA5Bxl1xbs_IdAUWP8Qkku5tQ7ieIEdMOp7rZcaRO70jWxNtsuTl73RuP5WAb-_cmbm%3A20221222082846%3AUTC%2C1128844350%2C80.239.140.66%2C20221222082846%2CKID00909-MoreThanSportsTV%2CDC985C2EA3D33AC28631D58AB5128539%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C120049010000000205550088%2C0%2C120049010000000205550088%2C1bdc286a-aad0-4fff-b241-3520fd40a43f%2C7%2CEND&GuardEncType=2
+
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",Nick/Comedy Central+1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e6694836cc9cf03e95425bd4313541cd:2cc793fd143869fc064974d3644a6572
+https://svc40.main.sl.t-online.de/LCID3221228277.originalserver.prod.sngtv.t-online.de/PLTV/88888888/224/3221228277/3221228277.mpd?rrsip=slbrrmfk11100.prod.sngtv.t-online.de&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7EhlKWcIO2frGwYJky1Y6ZVA%7EtFUPuGZ4BFefE0SN1KN7OaNuRih3llSYW00VrrO7_dVYZVqVUq8zPJLJciatIrA5Bxl1xbs_IdAUWP8Qkku5tQ7ieIEdMOp7rZcaRO70jWyLr4vZvlHi0r_1XX2KkdMl%3A20221222082843%3AUTC%2C1128844350%2C80.239.140.66%2C20221222082843%2Cnickcc%2CDC985C2EA3D33AC28631D58AB5128539%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C120049010000000205550088%2C0%2C120049010000000205550088%2C1bdc286a-aad0-4fff-b241-3520fd40a43f%2C7%2CEND&GuardEncType=2
+
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
