@@ -85,20 +85,20 @@ https://cfrt.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc1171rbo9
 https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc128yu3oj)/master_2min.mpd
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",Bravo West
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+#KODIPROP:inputstream.adaptive.license_key=50f8fe3baa6f3855a5399808ffcf9c6a:7cd28f3efa2381599ea1fb63f247ba16
+https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(bravo-west)/master.mpd
 
 
-
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",Bravo East
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=
-
+#KODIPROP:inputstream.adaptive.license_key=50f8fe3baa6f3855a5399808ffcf9c6a:7cd28f3efa2381599ea1fb63f247ba16
+https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(bravo-east)/master.mpd
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",
