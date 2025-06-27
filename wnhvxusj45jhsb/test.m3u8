@@ -40,7 +40,7 @@ https://svc40.main.sl.t-online.de/LCID3221228277.originalserver.prod.sngtv.t-onl
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1a05bebf706408431a390c3f9f40f410:89c5ff9f8e65c7fe966afbd2f9128e5f
-https://bypass.muddy-bird-9b91.workers.dev/dash-wv/linear/509/default_ott.mpd
+https://p-asia.onrender.com/https://bypass.muddy-bird-9b91.workers.dev/dash-wv/linear/509/default_ott.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",AXN MOVIES FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
