@@ -17,7 +17,7 @@
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",USA NETWORK EAST US
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=778ab64fa90f137a697743b5dc27b2f96:de4d31c7fc6005ede28abab2a0720a9f
+#KODIPROP:inputstream.adaptive.license_key="https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=78ab64fa90f137a697743b5dc27b2f96&key%5B%5D=de4d31c7fc6005ede28abab2a0720a9f"
 https://cfrt.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-east)/master.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",MTV HD
