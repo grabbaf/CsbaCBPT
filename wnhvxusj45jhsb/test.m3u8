@@ -18,21 +18,21 @@
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=999c783c19f6412fbd874ed21e17c9c2:494421f360d98a7fdda924130d662272
+#KODIPROP:inputstream.adaptive.license_key=494421f360d98a7fdda924130d662272:999c783c19f6412fbd874ed21e17c9c2
 https://tr.live.cdn.cgates.lt/live/dash/561803/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="","Arirang TV
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",Arirang TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=ae5c368c99f14472be0ea61b37764443:1d82f925c73039a41cf67187d458b163
+#KODIPROP:inputstream.adaptive.license_key=1d82f925c73039a41cf67187d458b163:ae5c368c99f14472be0ea61b37764443
 https://tr.live.cdn.cgates.lt/live/dash/560802/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",Baby TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=a7707f7fb0c84c8ba54619f514eee4e:fd2ceae6cddde71895e4718f00f34275
+#KODIPROP:inputstream.adaptive.license_key=fd2ceae6cddde71895e4718f00f34275:a7707f7fb0c84c8ba54619f514eee4e
 https://tr.live.cdn.cgates.lt/live/dash/561306/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",BBC World News
@@ -46,21 +46,21 @@ https://tr.live.cdn.cgates.lt/live/dash/560405/index.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b64b1eca5464aaa9a74ede4b596fa11:67c1275b9f20d55b24ad3f43da32172b
+#KODIPROP:inputstream.adaptive.license_key=67c1275b9f20d55b24ad3f43da32172b:0b64b1eca5464aaa9a74ede4b596fa11
 https://tr.live.cdn.cgates.lt/live/dash/560710/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",Blue Hustler
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=54393232379c4a57898a8d4d12b6695c:2305a3f727638465116400f7c422af87
+#KODIPROP:inputstream.adaptive.license_key=2305a3f727638465116400f7c422af87:54393232379c4a57898a8d4d12b6695c
 https://tr.live.cdn.cgates.lt/live/dash/560601/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",Boomerang
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f3edd459ec694178ace7085a1590e1f7:87a8578d064e701561e580929f425a53
+#KODIPROP:inputstream.adaptive.license_key=87a8578d064e701561e580929f425a53:f3edd459ec694178ace7085a1590e1f7
 https://tr.live.cdn.cgates.lt/live/dash/560608/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",Cartoon Network
@@ -74,7 +74,7 @@ https://tr.live.cdn.cgates.lt/live/dash/560401/index.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=d4ca4284166c44eaa2ca30437f548ee5:ec189394aa46efedf760042f5ea166de
+#KODIPROP:inputstream.adaptive.license_key=ec189394aa46efedf760042f5ea166de:d4ca4284166c44eaa2ca30437f548ee5
 https://tr.live.cdn.cgates.lt/live/dash/561106/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",CHANNEL 5
