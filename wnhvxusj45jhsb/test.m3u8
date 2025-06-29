@@ -81,7 +81,7 @@ https://tr.live.cdn.cgates.lt/live/dash/561106/index.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=ffeceb2e46915abe9fe0dbecd00cc755:9c1cde201069c387e589e16495d588e9
+#KODIPROP:inputstream.adaptive.license_key=9c1cde201069c387e589e16495d588e9:ffeceb2e46915abe9fe0dbecd00cc755
 https://tr.live.cdn.cgates.lt/live/dash/561405/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",CNBC_Europe
