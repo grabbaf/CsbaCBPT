@@ -105,40 +105,26 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(lc131pdfws)/m
 #KODIPROP:inputstream.adaptive.license_key=0020212a47511b226f7cc9d030aa171b:323c16315e1cb8d7c821facc3c1778a4
 https://cors-proxy.cooks.fyi/https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc124phhny)/master.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",WWE NETWORK
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+#KODIPROP:inputstream.adaptive.license_key=00208c93f4358213b52220898b962385:8ae6063167228e350dd132d4a1573102
+https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc106wh3yw)/master.mpd
 
-
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",SKY NEWS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+#KODIPROP:inputstream.adaptive.license_key=0020c13c3690d99ce5dbe3ea50725afb:c432e72a86293d935174b1144290bde7
+https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(lc103ow4ej)/master.mpd
 
-
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",NBC CHICAGO NEWS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=
-
+#KODIPROP:inputstream.adaptive.license_key=002082bbeba36536625edbabc33308b9:0bd9923f10901ec2ab5d360ee4132663
+https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(lc121nd4w6)/master.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -147,26 +133,60 @@ https://cors-proxy.cooks.fyi/https://fsly.stream.peacocktv.com/Content/CMAF_CTR-
 #KODIPROP:inputstream.adaptive.license_key=
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",USA West
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+#KODIPROP:inputstream.adaptive.license_key=333962e3e1383529867a9a0e28a5e5d1:5d3fcbed53749ee622ed0e64f31c1cbf
+https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd
 
-
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",NBC NEW YORK NEWS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+#KODIPROP:inputstream.adaptive.license_key=002057c016e213dea0e08129e7210657:09bf792a01ba6f70a196b51550c8c146
+https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(lc1126fksa)/master.mpd
 
-
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",SyFy West
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+#KODIPROP:inputstream.adaptive.license_key=6e826cd8da45312596c0ebbc282d1094:072bd089aab2971765532433155fefdf
+"https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(syfy-west)/master.mpd
 
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",OXYGEN West
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7aa9183e6b703715bbff54ec30dee718:293991812ea6ad078305deecfb2bc82f
+https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(oxygen-west)/master.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",Animal Planet
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+#EXTVLCOPT:http-referrer=https:https://jagledam.online/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+https://webtvstream.bhtelecom.ba/hls7/animal_planet.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",NICKTOONS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+#EXTVLCOPT:http-referrer=https:https://jagledam.online/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+https://webtvstream.bhtelecom.ba/hls16/nicktoons.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",MTV Hits
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+#EXTVLCOPT:http-referrer=https:https://jagledam.online/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+http://webtvstream.bhtelecom.ba/hls7/mtv_hits.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",
 #KODIPROP:inputstreamaddon=inputstream.adaptive
