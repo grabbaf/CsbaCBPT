@@ -14,201 +14,96 @@
 #KODIPROP:inputstream.adaptive.license_key=
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",Animal Planet
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",NBC NEWS NOW
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=494421f360d98a7fdda924130d662272:999c783c19f6412fbd874ed21e17c9c2
-https://tr.live.cdn.cgates.lt/live/dash/561803/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=002068abf577c8d929c7f9954381d2c7:0b867154899ea5f9e0175cc0a3c794cc
+https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(lc102s5icf)/master.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",Arirang TV
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",DATELINE
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=1d82f925c73039a41cf67187d458b163:ae5c368c99f14472be0ea61b37764443
-https://tr.live.cdn.cgates.lt/live/dash/560802/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=002029fcdaae2385eedf0fd9332c3c90:33b97956f316d0b65e9fd28888e7c7a9
+https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc112xzr75)/master.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",Baby TV
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",HALLMARK CHANNEL
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=fd2ceae6cddde71895e4718f00f34275:a7707f7fb0c84c8ba54619f514eee4e
-https://tr.live.cdn.cgates.lt/live/dash/561306/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=0020c970519e635452e81e2496c919ca:87114e92d957670e78e6d38113c340c5
+https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(lc130gttyz)/master.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",BBC World News
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",REELZ
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f9b363a19b584477ada65ea4e4bd9302:26e1e661f9e16376ff2621bf250ad103
-https://tr.live.cdn.cgates.lt/live/dash/560405/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=00207278b6ffcd0509d22d9cc88b0dbc:bfc50c28b15c2820b80e68a49ff26976
+https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(lc136p5w66)/master.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",Bloomberg Television
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",THAT 70S SHOW
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=67c1275b9f20d55b24ad3f43da32172b:0b64b1eca5464aaa9a74ede4b596fa11
-https://tr.live.cdn.cgates.lt/live/dash/560710/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=0020441738b197a02c0e5cd63df71fd8:5ebcc56b9cd51e6f4fbbb28990dff3ab
+https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc110k6s0r)/master.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",Blue Hustler
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",SNL_VAULT
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=2305a3f727638465116400f7c422af87:54393232379c4a57898a8d4d12b6695c
-https://tr.live.cdn.cgates.lt/live/dash/560601/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=0020114fe7af66d3597d3142118ba726:9f0a93a10317ad6a13d9ff9d0ce3c6de
+https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc103ce13q)/master.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",Boomerang
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",LOL
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=87a8578d064e701561e580929f425a53:f3edd459ec694178ace7085a1590e1f7
-https://tr.live.cdn.cgates.lt/live/dash/560608/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=0020be41438d79a614ad87270e641598:29cad8bd3fbbf5909792d4f92cf3ba59
+https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(lc1224oy9g)/master.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",Cartoon Network
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",THIS OLD HOUSE
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=5cebda34393a4b20b0748445ba89e8c4:2c125f88407aff752517ffc485436043
-https://tr.live.cdn.cgates.lt/live/dash/560401/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=0020a0d619f477cebf6ead8dce2ca663:f7956505953f8d205bd115d81ba60938
+https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(lc1171rbo9)/master.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",CBS Reality
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",NOSEY
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=ec189394aa46efedf760042f5ea166de:d4ca4284166c44eaa2ca30437f548ee5
-https://tr.live.cdn.cgates.lt/live/dash/561106/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=00209d759e643e8d4b0dafa5c9937eaa:88c91f003f8cd5cc6502489f9b139133
+https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(lc13333fsc)/master.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",CHANNEL 5
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",CONFESS BY NOSEY
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=9c1cde201069c387e589e16495d588e9:ffeceb2e46915abe9fe0dbecd00cc755
-https://tr.live.cdn.cgates.lt/live/dash/561405/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=0020ff1bb25785a5f99720c82dbc6115:d657d77fcf20ad2dafa7ea6dac4c578b
+https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(lc1061vjor)/master.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",CNBC_Europe
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",HALLMARK MOVIES AND MYSTERIES
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=e22f39105b8347c7965a4d341fb2983d:7e8e6ae472afe8554c252cdf775c08c5
-https://tr.live.cdn.cgates.lt/live/dash/560302/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=00204fad3935b123c2bc3e1b47aa4511:a7c6f7bffe978bfaaf2cb986875c0711
+https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(lc132wswht)/master.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",CNN_International
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",HALLMARK_DRAMA
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=2f4052e0dcb740b28b8fd49ee4ecd35a:e2e0d07b2767e46581c82cf87614e750
-https://tr.live.cdn.cgates.lt/live/dash/560404/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=0020103077f01f7343b03e497a636169:3c38d1ab5a1011bb1d0d96232ac0ed27
+https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(lc131pdfws)/master.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",DISCOVERY Channel
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",GOLFPASS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0e5b4f0f0bf641029b2b2000665a8b49:152408adb88d19b5bfac04ccb6c493bb
-https://tr.live.cdn.cgates.lt/live/dash/562104/index.mpd
-
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",DISCOVERY Science
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=fad3ff2ee51941319c4474b2b3c8279d:18eec8f28b5dfc2cd12904ade10690cd
-https://tr.live.cdn.cgates.lt/live/dash/561804/index.mpd
-
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",DocuBox
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=9baa6daa67be4fa8993da17d1c58180e:32e341d0510bbe4e9788573efdedf9f9
-https://tr.live.cdn.cgates.lt/live/dash/561606/index.mpd
-
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=
-
+#KODIPROP:inputstream.adaptive.license_key=0020212a47511b226f7cc9d030aa171b:323c16315e1cb8d7c821facc3c1778a4
+https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc124phhny)/master.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",
 #KODIPROP:inputstreamaddon=inputstream.adaptive
