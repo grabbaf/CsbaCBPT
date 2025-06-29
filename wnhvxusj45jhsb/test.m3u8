@@ -19,7 +19,7 @@
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=002068abf577c8d929c7f9954381d2c7:0b867154899ea5f9e0175cc0a3c794cc
-https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(lc102s5icf)/master.mpd
+https://cors-proxy.cooks.fyi/https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(lc102s5icf)/master.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",DATELINE
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -33,7 +33,7 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc112xzr75)/m
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0020c970519e635452e81e2496c919ca:87114e92d957670e78e6d38113c340c5
-https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(lc130gttyz)/master.mpd
+https://cors-proxy.cooks.fyi/https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(lc130gttyz)/master.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",REELZ
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -49,7 +49,7 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(lc136p5w66)/m
 #KODIPROP:inputstream.adaptive.license_key=0020441738b197a02c0e5cd63df71fd8:5ebcc56b9cd51e6f4fbbb28990dff3ab
 https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc110k6s0r)/master.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",SNL_VAULT
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",SNL VAULT
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -89,9 +89,9 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(lc1061vjor)/m
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=00204fad3935b123c2bc3e1b47aa4511:a7c6f7bffe978bfaaf2cb986875c0711
-https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(lc132wswht)/master.mpd
+https://cors-proxy.cooks.fyi/https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(lc132wswht)/master.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",HALLMARK_DRAMA
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",HALLMARK DRAMA
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -103,7 +103,7 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(lc131pdfws)/m
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0020212a47511b226f7cc9d030aa171b:323c16315e1cb8d7c821facc3c1778a4
-https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc124phhny)/master.mpd
+https://cors-proxy.cooks.fyi/https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc124phhny)/master.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",
 #KODIPROP:inputstreamaddon=inputstream.adaptive
