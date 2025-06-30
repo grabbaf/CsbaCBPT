@@ -188,12 +188,47 @@ https://webtvstream.bhtelecom.ba/hls16/nicktoons.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
 http://webtvstream.bhtelecom.ba/hls7/mtv_hits.mpd
 
+#EXTINF:-1 tvg-id="NickJr" tvg-name"Nickelodeon Junior" group-title="Kids" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/392_144.png" ch-number="617",617 Nick Jr 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"tKu+6Vtps+gKDRQScshw2w", "kid":"+mUiDJ925CQXOJnfUzptEA" } ], "type":"temporary" }
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
+https://p-sea.onrender.com/https://linearjitp-playback.astro.com.my/dash-wv/linear/9982/default_ott.mpd
+  
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name"Nickelodeon HD" group-title="Kids" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/370_144.png" ch-number="616",616 Nickelodeon 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"vaX3u8HkQJb3eaBhn+mIHw", "kid":"2FIOlqEoOrblvlOEdL+oEA" } ], "type":"temporary" }
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
+https://p-sea.onrender.com/https://linearjitp-playback.astro.com.my/dash-wv/linear/2511/default_ott.mpd
+  
+#EXTINF:-1 tvg-id="CartoonNetwork" ch-number=" " tvg-name="Cartoon Network HD" group-title="Kids" tvg-language="English" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/371_144.png",615 Cartoon Network
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"icX/n45lx/6WavvS+RKOXw", "kid":"GgW+v3BkCEMaOQw/n0D0EA" } ], "type":"temporary" }
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
+https://p-sea.onrender.com/https://linearjitp-playback.astro.com.my/dash-wv/linear/509/default_ott.mpd
+
+#EXTINF:-1 tvg-id="AstroTutorTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/Astro_Tutor_TV_%282024%29.png" group-title="Kids",603 Astro Tutor TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"rtncAgOHJarb0Me9FwkkCw", "kid":"iCm49NkdJjDzmMZ+2UwjEA" } ], "type":"temporary" }
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
+https://p-sea.onrender.com/https://linearjitp-playback.astro.com.my/dash-wv/linear/5071/default_ott.mpd
+ 
+#EXTINF:-1 tvg-id="612" ch-number=" " tvg-name="Dreamworks" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/485_144.png" group-title="Kids",612 Dreamworks
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"3MvfBDrEPRi+Cz60Olgodg", "kid":"tb/jVU3yq803r+Ewp+HTEA" } ], "type":"temporary" }
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
+https://p-sea.onrender.com/https://linearjitp-playback.astro.com.my/dash-wv/linear/5095/default_ott.mpd
+  
+#EXTINF:-1 tvg-id="CBeebies" ch-number="620" tvg-name="CBeebies" group-title="Kids" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/481_144.png",620 CBeebies 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"3mxf6q5faWO0s5LdyLaneA","kid":"UMaZxETl+A2sr8TJlmfYEA"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
+https://p-sea.onrender.com/https://linearjitp-playback.astro.com.my/dash-wv/linear/5093/default_ott.mpd
+
 #EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-
 
 #EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",
 #KODIPROP:inputstreamaddon=inputstream.adaptive
