@@ -18,7 +18,7 @@
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"8aImOWKITqCoCQlnSjD/gg","k":"eFH35WihzrEQJOGtxZzsKQ"},{"kty":"oct","kid":"iF5Y/xvgQnWLrJh31ttZIQ","k":"uRPABeYuyAZz4QNuduNbgw"},{"kty":"oct","kid":"r2Ren8sDQYaTWnf/sH4UBw","k":"8xkp496s+6K1gG/r0NK5nA"}]}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "eFH35WihzrEQJOGtxZzsKQ", "kid": "8aImOWKITqCoCQlnSjD/gg"}, {"kty": "oct", "k": "uRPABeYuyAZz4QNuduNbgw", "kid": "iF5Y/xvgQnWLrJh31ttZIQ"}, {"kty": "oct", "k": "8xkp496s+6K1gG/r0NK5nA", "kid": "r2Ren8sDQYaTWnf/sH4UBw"}], "type": "temporary"}
 https://www.philo.com/manifestv2/live/NIKHD/manifest.mpd?content_host=prod.cdn-fsty.philo.com&dspid=web-48d11e60-4eef-11f0-9f1c-6d16d9cb81f0&sdpid=3-web-ad0b297a-d500-4df1-a7fc-939d1bd54e5e&z_start_time=2025-06-21T22%3A00%3A00.000Z&sdsn=1
 
 #EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",
