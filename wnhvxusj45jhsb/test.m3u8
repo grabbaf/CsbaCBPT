@@ -27,3 +27,44 @@ https://cnt1-slb.cdn.3bbtv.com:8443/3bb/live/103/103.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=abd5399acc82e77036bbba2ed175365e:31f0f004a02b14eab3ab2e27ebc3a823
 https://svc40.main.sl.t-online.de/LCID3221228685.originalserver.prod.sngtv.t-online.de/PLTV/88888888/224/3221228685/3221228685.mpd?rrsip=slbrrmfk11100.prod.sngtv.t-online.de&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7EBKQoOFkAHsmq7mkF-YjX_Q%7EtFUPuGZ4BFefE0SN1KN7OaNuRih3llSYW00VrrO7_dVYZVqVUq8zPJLJciatIrA5Bxl1xbs_IdAUWP8Qkku5tQ7ieIEdMOp7rZcaRO70jWxQ1rOZzK_mrbBrWW4aUsKD%3A20221222082858%3AUTC%2C1128844350%2C80.239.140.66%2C20221222082858%2CKID00879-BoomerangSky%2CDC985C2EA3D33AC28631D58AB5128539%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C120049010000000205550088%2C0%2C120049010000000205550088%2C1bdc286a-aad0-4fff-b241-3520fd40a43f%2C7%2CEND&GuardEncType=2
+
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",SYFY (Sky)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7b38e4cf0e09be8a02dd78d674799202:cf66b481aa8381224a958ae85ee82fad
+https://svc40.main.sl.t-online.de/LCID3221228676.originalserver.prod.sngtv.t-online.de/PLTV/88888888/224/3221228676/3221228676.mpd?rrsip=slbrrmfk11100.prod.sngtv.t-online.de&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7EjOuHiE_8kw1x2zlo3bTIIg%7EtFUPuGZ4BFefE0SN1KN7OaNuRih3llSYW00VrrO7_dVYZVqVUq8zPJLJciatIrA5Bxl1xbs_IdAUWP8Qkku5tQ7ieIEdMOp7rZcaRO70jWyAeLaiw-KpUN06OtPh4wpv%3A20221222082857%3AUTC%2C1128844350%2C80.239.140.66%2C20221222082857%2Csyfy-sky%2CDC985C2EA3D33AC28631D58AB5128539%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C120049010000000205550088%2C0%2C120049010000000205550088%2C1bdc286a-aad0-4fff-b241-3520fd40a43f%2C7%2CEND&GuardEncType=2
+
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=
