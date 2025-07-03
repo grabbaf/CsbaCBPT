@@ -19,7 +19,8 @@
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=53a3776a034dbe5f483d0f3a46f5fddf:db9d0d03592fbe9f4429ef1a82eb47aa
-#EXTVLCOPT:http-referrer=https:https://www.izzi.com.mx
+#EXTVLCOPT:http-origin=https://www.izzi.mx
+#EXTVLCOPT:http-referrer=https:https://www.izzi.mx
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
 https://live1-ott.izzigo.tv/13/out/u/dash/MTV-00-HD/default.mpd
 
