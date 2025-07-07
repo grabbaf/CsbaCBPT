@@ -17,12 +17,12 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",TSN+ Channel 1
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=b32629202555405caaf2880c3bbb77dc:af8cdbfab978b35f920cecb1e53c7546
-https://live-ds.video.9c9media.com/b5f70afbd2895155f2a646b83dd12d07e7164a441751741056621/f/tsndigi0701/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=
+
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="",
